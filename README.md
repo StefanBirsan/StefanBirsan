@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👾 Stefan Bîrsan 👾
 
-<!--
-**StefanBirsan/StefanBirsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Computer Science Student => Developer`**
 
-Here are some ideas to get you started:
+I'm 19 years old student that sometimes is also a content creator building my version of the digital world litle by little , while discovering new tools and topics.Also, worth mentioning that I am a tech entusiast, meaning that my projects do tend to vary in their nature. All coding projects are built from the ground up, from planning and designing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/StefanBirsan"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+#
+
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=StefanBirsan&theme=python-dark)](https://git.io/streak-stats)
+
+#
+
+### 🔌 Connect with me
+
+You can allways contact me on discord: matrix1621. I will try my best to answear as quickly as possible.
