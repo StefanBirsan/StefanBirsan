@@ -6,7 +6,7 @@
 
 I'm a 19 years old student , who ,  sometimes is also a content creator building my version of the digital world litle by little , while discovering new tools and topics.Also, worth mentioning that I am a tech entusiast, meaning that my projects do tend to vary in their nature. All coding projects are built from the ground up, from planning and designing.
 
-![Your GIF Description]([https://link-to-your-gif.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119ywgj0s9mcydp9w0mb4fb3awu0s2i5fw59ez6gs3&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Your GIF Description]([[https://link-to-your-gif.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119ywgj0s9mcydp9w0mb4fb3awu0s2i5fw59ez6gs3&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj)))
 
 
 ---
