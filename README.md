@@ -20,6 +20,8 @@ I'm 19 years old student that sometimes is also a content creator building my ve
 
 #
 
+---
+
 ### 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=StefanBirsan&theme=python-dark)](https://git.io/streak-stats)
