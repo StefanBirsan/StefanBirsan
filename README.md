@@ -4,7 +4,7 @@
 
 I'm 19 years old student that sometimes is also a content creator building my version of the digital world litle by little , while discovering new tools and topics.Also, worth mentioning that I am a tech entusiast, meaning that my projects do tend to vary in their nature. All coding projects are built from the ground up, from planning and designing.
 
-<p align="left"> <a href="https://github.com/StefanBirsan"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
+<p align="left"> <a href="https://github.com/StefanBirsan"><img src="https://github-profile-trophy.vercel.app/?username=stefanbirsan" alt="gabitzuu" /></a> </p>
 
 ---
 
