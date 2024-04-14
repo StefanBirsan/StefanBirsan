@@ -4,7 +4,7 @@
 
 ### 🌕 About me
 
-I'm a 19 years old student , who ,  sometimes is also a content creator building my version of the digital world litle by little , while discovering new tools and topics.Also, worth mentioning that I am a tech entusiast, meaning that my projects do tend to vary in their nature. All coding projects are built from the ground up, from planning and designing.
+I'm a 19 years old student , who ,  sometimes is also a content creator while building my version of the digital world litle by little , while discovering new tools and topics.Also, worth mentioning that I am a tech entusiast, meaning that my projects do tend to vary in their nature. All coding projects are built from the ground up, from planning and designing.
 
 </p>
 
