@@ -1,6 +1,4 @@
-**`Software Developer`**
-
-<div align="center">
+<div align="row">
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/stefan-birsan-b1373a211/">
