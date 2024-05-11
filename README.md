@@ -2,10 +2,6 @@
 
 **`Software Developer`**
 
----
-
-
-<p align="left"> <a href="https://github.com/StefanBirsan"><img src="https://github-profile-trophy.vercel.app/?username=stefanbirsan" alt="stefanbirsan" /></a> </p>
 
 ---
 
