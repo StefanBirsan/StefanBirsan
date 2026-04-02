@@ -27,15 +27,6 @@ distributed architectures and AI.
 
 ------------------------------------------------------------------------
 
-## ⚙️ What I Enjoy
-
--   🧩 Designing backend systems
--   ☁️ Exploring cloud & infrastructure
--   🔍 Understanding how things *really* work under the hood
--   🏗️ Building projects that scale
-
-------------------------------------------------------------------------
-
 ## 🌐 Socials:
 <div id="badges">
     <a href="https://www.linkedin.com/in/stefan-bîrsan-b1373a211/">
