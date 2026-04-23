@@ -17,9 +17,9 @@ I'm an **Associate Software Engineer** with a growing focus on **DevOps
 
 My core interests live at the intersection of:
 
--   🔐 Cybersecurity\
--   🖥️ Operating Systems\
--   🌐 Networking\
+-   🔐 Cybersecurity
+-   🖥️ Operating Systems
+-   🌐 Networking
 -   🤖 Machine Learning
 
 💡 I'm driven by curiosity, from low-level system internals to
